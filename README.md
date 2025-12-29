@@ -13,5 +13,3 @@ This project extracts `h1` and `p` tag data from a given webpage and uses AI to 
 - **Python** (for web scraping and automation)
 - **BeautifulSoup / Requests** (to extract HTML content)
 - **AI API** (for brochure generation)
-
-## 📂 Project Structure
